@@ -1,0 +1,11 @@
+/Users/Kpak/Desktop/My_Apps/holberton/0x00-csharp-hello_world/5-print_float/bin/Debug/netcoreapp2.0/5-print_float.deps.json
+/Users/Kpak/Desktop/My_Apps/holberton/0x00-csharp-hello_world/5-print_float/bin/Debug/netcoreapp2.0/5-print_float.runtimeconfig.json
+/Users/Kpak/Desktop/My_Apps/holberton/0x00-csharp-hello_world/5-print_float/bin/Debug/netcoreapp2.0/5-print_float.runtimeconfig.dev.json
+/Users/Kpak/Desktop/My_Apps/holberton/0x00-csharp-hello_world/5-print_float/bin/Debug/netcoreapp2.0/5-print_float.dll
+/Users/Kpak/Desktop/My_Apps/holberton/0x00-csharp-hello_world/5-print_float/bin/Debug/netcoreapp2.0/5-print_float.pdb
+/Users/Kpak/Desktop/My_Apps/holberton/0x00-csharp-hello_world/5-print_float/obj/Debug/netcoreapp2.0/5-print_float.csprojAssemblyReference.cache
+/Users/Kpak/Desktop/My_Apps/holberton/0x00-csharp-hello_world/5-print_float/obj/Debug/netcoreapp2.0/5-print_float.csproj.CoreCompileInputs.cache
+/Users/Kpak/Desktop/My_Apps/holberton/0x00-csharp-hello_world/5-print_float/obj/Debug/netcoreapp2.0/5-print_float.AssemblyInfoInputs.cache
+/Users/Kpak/Desktop/My_Apps/holberton/0x00-csharp-hello_world/5-print_float/obj/Debug/netcoreapp2.0/5-print_float.AssemblyInfo.cs
+/Users/Kpak/Desktop/My_Apps/holberton/0x00-csharp-hello_world/5-print_float/obj/Debug/netcoreapp2.0/5-print_float.dll
+/Users/Kpak/Desktop/My_Apps/holberton/0x00-csharp-hello_world/5-print_float/obj/Debug/netcoreapp2.0/5-print_float.pdb
