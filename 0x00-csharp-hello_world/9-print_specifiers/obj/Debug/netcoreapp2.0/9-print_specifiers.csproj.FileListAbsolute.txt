@@ -1,0 +1,11 @@
+/Users/Kpak/Desktop/My_Apps/holberton/0x00-csharp-hello_world/9-print_specifiers/bin/Debug/netcoreapp2.0/9-print_specifiers.deps.json
+/Users/Kpak/Desktop/My_Apps/holberton/0x00-csharp-hello_world/9-print_specifiers/bin/Debug/netcoreapp2.0/9-print_specifiers.runtimeconfig.json
+/Users/Kpak/Desktop/My_Apps/holberton/0x00-csharp-hello_world/9-print_specifiers/bin/Debug/netcoreapp2.0/9-print_specifiers.runtimeconfig.dev.json
+/Users/Kpak/Desktop/My_Apps/holberton/0x00-csharp-hello_world/9-print_specifiers/bin/Debug/netcoreapp2.0/9-print_specifiers.dll
+/Users/Kpak/Desktop/My_Apps/holberton/0x00-csharp-hello_world/9-print_specifiers/bin/Debug/netcoreapp2.0/9-print_specifiers.pdb
+/Users/Kpak/Desktop/My_Apps/holberton/0x00-csharp-hello_world/9-print_specifiers/obj/Debug/netcoreapp2.0/9-print_specifiers.csprojAssemblyReference.cache
+/Users/Kpak/Desktop/My_Apps/holberton/0x00-csharp-hello_world/9-print_specifiers/obj/Debug/netcoreapp2.0/9-print_specifiers.csproj.CoreCompileInputs.cache
+/Users/Kpak/Desktop/My_Apps/holberton/0x00-csharp-hello_world/9-print_specifiers/obj/Debug/netcoreapp2.0/9-print_specifiers.AssemblyInfoInputs.cache
+/Users/Kpak/Desktop/My_Apps/holberton/0x00-csharp-hello_world/9-print_specifiers/obj/Debug/netcoreapp2.0/9-print_specifiers.AssemblyInfo.cs
+/Users/Kpak/Desktop/My_Apps/holberton/0x00-csharp-hello_world/9-print_specifiers/obj/Debug/netcoreapp2.0/9-print_specifiers.dll
+/Users/Kpak/Desktop/My_Apps/holberton/0x00-csharp-hello_world/9-print_specifiers/obj/Debug/netcoreapp2.0/9-print_specifiers.pdb
