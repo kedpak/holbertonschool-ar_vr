@@ -1,0 +1,11 @@
+/Users/Kpak/Desktop/My_Apps/holberton/0x00-csharp-hello_world/6-print_string/bin/Debug/netcoreapp2.0/6-print_string.deps.json
+/Users/Kpak/Desktop/My_Apps/holberton/0x00-csharp-hello_world/6-print_string/bin/Debug/netcoreapp2.0/6-print_string.runtimeconfig.json
+/Users/Kpak/Desktop/My_Apps/holberton/0x00-csharp-hello_world/6-print_string/bin/Debug/netcoreapp2.0/6-print_string.runtimeconfig.dev.json
+/Users/Kpak/Desktop/My_Apps/holberton/0x00-csharp-hello_world/6-print_string/bin/Debug/netcoreapp2.0/6-print_string.dll
+/Users/Kpak/Desktop/My_Apps/holberton/0x00-csharp-hello_world/6-print_string/bin/Debug/netcoreapp2.0/6-print_string.pdb
+/Users/Kpak/Desktop/My_Apps/holberton/0x00-csharp-hello_world/6-print_string/obj/Debug/netcoreapp2.0/6-print_string.csprojAssemblyReference.cache
+/Users/Kpak/Desktop/My_Apps/holberton/0x00-csharp-hello_world/6-print_string/obj/Debug/netcoreapp2.0/6-print_string.csproj.CoreCompileInputs.cache
+/Users/Kpak/Desktop/My_Apps/holberton/0x00-csharp-hello_world/6-print_string/obj/Debug/netcoreapp2.0/6-print_string.AssemblyInfoInputs.cache
+/Users/Kpak/Desktop/My_Apps/holberton/0x00-csharp-hello_world/6-print_string/obj/Debug/netcoreapp2.0/6-print_string.AssemblyInfo.cs
+/Users/Kpak/Desktop/My_Apps/holberton/0x00-csharp-hello_world/6-print_string/obj/Debug/netcoreapp2.0/6-print_string.dll
+/Users/Kpak/Desktop/My_Apps/holberton/0x00-csharp-hello_world/6-print_string/obj/Debug/netcoreapp2.0/6-print_string.pdb
